@@ -1,0 +1,9 @@
+{
+	"name": "ProfiseePamDataFactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7191fa5a-55eb-49d7-99e7-4026ef6033cc",
+		"tenantId": "e4ba15d0-7fe2-4bd4-a3ef-a97a4378231e"
+	}
+}
